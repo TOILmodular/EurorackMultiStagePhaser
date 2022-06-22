@@ -16,7 +16,7 @@ Using both outputs for left and right audio channels creates a nice pseudo-stere
 
 The selection of stages has loosely been inspired by the AJH SYNTH Next Phase module.
 
-There is a [YouTube video](https://youtu.be/MpHdmQVAfss) available, showing a demonstration of the sound from my module.
+There is a [YouTube video](https://youtu.be/MpHdmQVAfss) available, showing a demonstration of the sound with my module.
 
 ## Module Built and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and a set of Gerber files.
@@ -46,7 +46,7 @@ If you want to use the Gerber files for having PCBs manufactured, please note th
 - The two rotary switches used are the ALPHA SR1712F-0109-15K0A-B9-N-027. The Mouser number is 105-SR1712F-18NS.
 - The switch used is a standard SPDT toggle switch.
 
-img width="359" alt="Screen Shot 2022-06-22 at 15 26 07" src="https://user-images.githubusercontent.com/97026614/174958642-b65b1f33-e615-49bf-8ea9-ad6ecc099233.png">
+<img width="359" alt="Screen Shot 2022-06-22 at 15 26 07" src="https://user-images.githubusercontent.com/97026614/174958642-b65b1f33-e615-49bf-8ea9-ad6ecc099233.png">
 <img width="359" alt="Screen Shot 2022-06-22 at 15 26 34" src="https://user-images.githubusercontent.com/97026614/174958666-8c2f2e4d-37b8-4c13-b2ad-2ad142b3b192.png">
 <img width="401" alt="Screen Shot 2022-06-22 at 15 27 18" src="https://user-images.githubusercontent.com/97026614/174958682-9724aaf2-9ab1-4170-90b1-1d6895cf309b.png">
 <img width="401" alt="Screen Shot 2022-06-22 at 15 27 56" src="https://user-images.githubusercontent.com/97026614/174958721-44e65520-f342-4ed7-8a37-06ac870dd1f5.png">
