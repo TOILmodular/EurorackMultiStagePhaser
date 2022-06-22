@@ -37,7 +37,7 @@ If you want to know about my DIY building process, take a look at those two YouT
 ## Additional Information about specific Components
 If you want to use the Gerber files for having PCBs manufactured, please note the following information about components used.
 
-- The design makes use of the SMD version of the LM13700 IC, called V13700.
+- The design makes use of the SMD version of the LM13700 IC, called V13700M.
 - There is a number of SMD 0.1uF capacitors with the package size 0603.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
 - On the control board, you will find electrolytic capacitors with a rectangle next to them. Since these capacitors are too tall for standing upright on the board with the main board on top of it, those capacitors need to be mounted in a rectangular position. The rectangle shows the position for each bent-over capacitor.
