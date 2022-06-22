@@ -39,6 +39,7 @@ If you want to use the Gerber files for having PCBs manufactured, please note th
 
 - The design makes use of the SMD version of the LM13700 IC, called V13700M.
 - There is a number of SMD 0.1uF capacitors with the package size 0603.
+- For the tranistors 2N3904 and 2N3906, the SMD versions MMBT3904 and MMBT3906 are used on the PCBs.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
 - On the control board, you will find electrolytic capacitors with a rectangle next to them. Since these capacitors are too tall for standing upright on the board with the main board on top of it, those capacitors need to be mounted in a rectangular position. The rectangle shows the position for each bent-over capacitor.
 - The two rotary switches used are the ALPHA SR1712F-0109-15K0A-B9-N-027. The Mouser number is 105-SR1712F-18NS.
