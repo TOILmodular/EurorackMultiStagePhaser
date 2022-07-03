@@ -18,7 +18,7 @@
 | Capacitor Electrolytic | 2.2uF | 1 |
 | Capacitor Electrolytic | 1uF | 2 |
 | Capacitor Ceramic | 0.22uF | 1 |
-| Capacitor Ceramic | 0.1uF | 16 |
+| Capacitor Ceramic (SMD) | 0.1uF (1608)| 16 |
 | Capacitor Ceramic | 4700pF | 12 |
 | Capacitor Ceramic | 100pF | 1 |
 | Capacitor Ceramic | 22pF | 2 |
