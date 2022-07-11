@@ -8,7 +8,7 @@ I extended the number of available stages to 12 and added the possibility to sel
 
 One of them is directly sent to the output path to one of two audio outputs.
 
-The other oner is fed into the feedbackloop and the second audio output.
+The other oner is fed into the feedback loop and the second audio output.
 
 ![Phaser Flowchart](https://user-images.githubusercontent.com/97026614/174950328-fcf31c8b-8099-4bc2-b031-ef11fb446f37.jpg)
 
