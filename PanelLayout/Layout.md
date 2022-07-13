@@ -2,7 +2,7 @@
 Coordinates given in the table fit to the layout of components given in the PCB in folders GerberFiles_Orig and GerberFiles_Thonk.
 The layout is the same for both versions.
 
-Panel size: 63mm x 128.5mm
+Panel size: 42mm x 128.5mm
 
 The numbers in the table are refering to the numbers in the picture below.
 
