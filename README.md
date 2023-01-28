@@ -18,7 +18,7 @@ The selection of stages has loosely been inspired by the AJH SYNTH Next Phase mo
 
 There is a [YouTube video](https://youtu.be/MpHdmQVAfss) available, showing a demonstration of the sound with my module.
 
-## Module Built and PCBs
+## Module Build and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and a set of Gerber files.
 For creating a front panel, I added a picture with the dimensions and positions of the control components, fitting to the control PBC layout.
 
