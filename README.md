@@ -46,8 +46,7 @@ If you want to use the Gerber files for having PCBs manufactured, please note th
 - For the tranistors 2N3904 and 2N3906, the SMD versions MMBT3904 and MMBT3906 are used on the PCBs.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
 - On the control board, you will find electrolytic capacitors with a rectangle next to them. Since these capacitors are too tall for standing upright on the board with the main board on top of it, those capacitors need to be mounted in a rectangular position. The rectangle shows the position for each bent-over capacitor.
-- The two rotary switches used are the ALPHA SR1712F-0109-15K0A-B9-N-027. The Mouser number is 105-SR1712F-18NS.
-- The switch used is a standard SPDT toggle switch.
+- The two rotary switches used are the ALPHA SR1712F-0109-15K0A-B9-N-027 (9-pole).
 
 <img width="359" alt="Screen Shot 2022-06-22 at 15 26 07" src="https://user-images.githubusercontent.com/97026614/174958642-b65b1f33-e615-49bf-8ea9-ad6ecc099233.png">
 <img width="359" alt="Screen Shot 2022-06-22 at 15 26 34" src="https://user-images.githubusercontent.com/97026614/174958666-8c2f2e4d-37b8-4c13-b2ad-2ad142b3b192.png">
